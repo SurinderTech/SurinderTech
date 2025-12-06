@@ -1,3 +1,6 @@
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E800FD&center=true&width=500&lines=%3C%F0%9F%91%8B+Hello%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+नमस्ते%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Ciao%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Hola%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Bonjour%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+こんにちは%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+안녕하세요%2C+World!+%2F+%3E
+  )]()
 <!-- HEADER -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+there+👋+I'm+Surinder+Kumar!;Full-Stack+Developer+⚡;AI+Automation+Builder+🤖;Python+Lover+🐍;Welcome+to+My+Coding+Universe+🚀" />
