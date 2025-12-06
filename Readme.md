@@ -33,13 +33,25 @@
 💬 Ask me anything about coding, debugging, or my favorite coffee blend ☕.<br>
 ⚡ Fun fact: I love starting things from zero and turning small ideas into real projects.<br>
  <div align="center">
-  
+</div>
+<br>
+<br>
+<br>
+
+
+
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 </div>
 
----
 
+
+
+<br>
+<br>
+<br>
 # 💻 Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
