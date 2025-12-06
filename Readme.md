@@ -1,4 +1,3 @@
-
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E800FD&center=true&width=500&lines=%3C%F0%9F%91%8B+Hello%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+नमस्ते%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Ciao%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Hola%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Bonjour%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+こんにちは%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+안녕하세요%2C+World!+%2F+%3E
   )]()
 <!-- HEADER -->
@@ -8,37 +7,20 @@
 
 <br/>
 
-<!-- TROPHY -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SurinderTech&theme=radical&row=1&column=6" alt="Trophies" />
 
-</div>
 
- Badges (GitHub Style)
-
-<div align="center">
-
-<!-- OFFICIAL GITHUB-STYLE BADGES -->
-<img src="https://github.githubassets.com/assets/starstruck-default--light-medium-65b31ef2251e.png" width="90" />
-<img src="https://github.githubassets.com/assets/pair-extraordinaire-default--light-medium-2d0b06cddc93.png" width="90" />
-<img src="https://github.githubassets.com/assets/pull-shark-default--light-medium-8d24ed5e4b1e.png" width="90" />
-<img src="https://github.githubassets.com/assets/yolo-default--light-medium-7fab6c703b79.png" width="90" />
-
-<br><br>
 
 <!-- CUSTOM CIRCULAR BADGES (YOUR PERSONAL ONES) -->
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/code.svg" width="85" height="85" style="border-radius:50%; padding:10px; background:#6C63FF;" title="Full Stack Ninja" />
-
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/robot.svg" width="85" height="85" style="border-radius:50%; padding:10px; background:#FFD93D;" title="AI Automation Shark" />
-
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" width="85" height="85" style="border-radius:50%; padding:10px; background:#00A8E8;" title="Python Pro" />
-
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/api.svg" width="85" height="85" style="border-radius:50%; padding:10px; background:#06D6A0;" title="FastAPI Warrior" />
-
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" width="85" height="85" style="border-radius:50%; padding:10px; background:#FF7A00;" title="Web Developer" />
+![Full Stack](https://img.shields.io/badge/Role-Full--Stack--Developer-6C63FF?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AI-Automation-FFD93D?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Developer-00A8E8?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-06D6A0?style=for-the-badge&logo=fastapi)
+![Web](https://img.shields.io/badge/Web-Developer-FF7A00?style=for-the-badge&logo=html5)
 
 </div>
+
 
 ---
 
@@ -72,8 +54,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
@@ -81,8 +61,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
@@ -110,8 +88,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
@@ -122,7 +98,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
+  
 </div>
 # 🚀 Featured Projects
 
@@ -137,19 +113,31 @@
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SurinderTech&show_icons=true&theme=tokyonight&hide_border=true" />
+<!-- GitHub Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=SurinderTech&show_icons=true&theme=radical&hide_border=true&count_private=true"
+  alt="SurinderTech GitHub Stats"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SurinderTech&theme=tokyonight&hide_border=true" />
+<!-- GitHub Streak -->
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=SurinderTech&theme=radical&hide_border=true"
+  alt="SurinderTech GitHub Streak"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurinderTech&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- Top Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurinderTech&layout=compact&theme=radical&hide_border=true&langs_count=6"
+  alt="Top Languages"
+/>
 
 </div>
 
