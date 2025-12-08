@@ -114,7 +114,7 @@
 </div>
 # 🚀 Featured Projects
 
-### 🔹 AI WhatsApp Marketing Software  
+ 🔹 AI WhatsApp Marketing Software  
 > Automates WhatsApp, leads, funnels & client onboarding.
 
 ### 🔹 AI Personal Assistant (Voice + Text)  
