@@ -24,7 +24,7 @@
 
 ---
 
-# 👨‍💻 About Me
+ 👨‍💻 About Me
 
 🔭 🚀 I’m currently building cool tech projects and leveling up my coding game.<br>
 👯 I’m excited to collaborate on open-source work and creative innovations.<br>
