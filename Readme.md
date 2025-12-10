@@ -125,33 +125,34 @@
 
 ---
 
- 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
 <!-- GitHub Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=SurinderTech&show_icons=true&theme=radical&hide_border=true&count_private=true"
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=SurinderTech&show_icons=true&theme=radical&hide_border=true" 
   alt="SurinderTech GitHub Stats"
 />
 
 <br/><br/>
 
-<!-- GitHub Streak -->
-<img
-  src="https://github-readme-streak-stats.herokuapp.com?user=SurinderTech&theme=radical&hide_border=true"
+<!-- GitHub Streak (FIXED DOMAIN) -->
+<img 
+  src="https://streak-stats.demolab.com?user=SurinderTech&theme=radical&hide_border=true" 
   alt="SurinderTech GitHub Streak"
 />
 
 <br/><br/>
 
 <!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurinderTech&layout=compact&theme=radical&hide_border=true&langs_count=6"
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurinderTech&layout=compact&theme=radical&hide_border=true&langs_count=6" 
   alt="Top Languages"
 />
 
 </div>
+
 
 ---
 
