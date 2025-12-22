@@ -31,7 +31,8 @@
 🤝 I’m diving deeper into advanced Software Engineering concepts and open to learning from others.<br>
 🌱 I’m exploring everything—from system architecture to automation and smart tooling.<br>
 💬 Ask me anything about coding, debugging, or my favorite coffee blend ☕.<br>
-⚡ Fun fact: I love starting things from zero and turning small ideas into real projects.<br>
+⚡![Fun Fact](https://img.shields.io/badge/Fun_Fact-Chess_Champ-purple?style=for-the-badge)
+
  <div align="center">
 </div>
 <br>
