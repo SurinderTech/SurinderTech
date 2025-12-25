@@ -32,6 +32,8 @@
 🌱 I’m exploring everything—from system architecture to automation and smart tooling.<br>
 💬 Ask me anything about coding, debugging, or my favorite coffee blend ☕.<br>
 ⚡ Fun Fact  &nbsp; &nbsp; &nbsp;  ![Fun Fact](https://img.shields.io/badge/♞_Chess-Champ-8B5CF6?style=for-the-badge&logo=lichess&logoColor=white)<br>
+
+
 I approach coding problems the same way I play chess —  
 thinking **3 moves ahead**, sacrificing short-term wins for long-term strategy.
 
