@@ -185,59 +185,26 @@ thinking **3 moves ahead**, sacrificing short-term wins for long-term strategy.
 
 # 🌐 Social Links
 
-<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surinder-kumar-948343321/)
 
-<a href="https://www.linkedin.com/in/surinder-kumar-948343321/">
-  <img src="https://cdn.simpleicons.org/linkedin/ffffff" width="40"
-       style="background:#0A66C2;border-radius:50%;padding:10px;margin:6px;" />
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/surinder_kumar101/)
 
-<a href="https://www.instagram.com/surinder_kumar101/">
-  <img src="https://cdn.simpleicons.org/instagram/ffffff" width="40"
-       style="background:#E4405F;border-radius:50%;padding:10px;margin:6px;" />
-</a>
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SurinderFoundations)
 
-<a href="https://www.youtube.com/@SurinderFoundations">
-  <img src="https://cdn.simpleicons.org/youtube/ffffff" width="40"
-       style="background:#FF0000;border-radius:50%;padding:10px;margin:6px;" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
 
-<a href="YOUR_PORTFOLIO_LINK">
-  <img src="https://cdn.simpleicons.org/googlechrome/ffffff" width="40"
-       style="background:#000000;border-radius:50%;padding:10px;margin:6px;" />
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/surinderdigital)
 
-<a href="https://leetcode.com/u/surinderdigital">
-  <img src="https://cdn.simpleicons.org/leetcode/ffffff" width="40"
-       style="background:#FFA116;border-radius:50%;padding:10px;margin:6px;" />
-</a>
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/surinder101)
 
-<a href="https://www.geeksforgeeks.org/profile/surinder101">
-  <img src="https://cdn.simpleicons.org/geeksforgeeks/ffffff" width="40"
-       style="background:#2F8D46;border-radius:50%;padding:10px;margin:6px;" />
-</a>
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](YOUR_CODEFORCES_LINK)
 
-<a href="YOUR_CODEFORCES_LINK">
-  <img src="https://cdn.simpleicons.org/codeforces/ffffff" width="40"
-       style="background:#1F8ACB;border-radius:50%;padding:10px;margin:6px;" />
-</a>
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Lost-Access3420/)
 
-<a href="https://www.reddit.com/user/Lost-Access3420/">
-  <img src="https://cdn.simpleicons.org/reddit/ffffff" width="40"
-       style="background:#FF4500;border-radius:50%;padding:10px;margin:6px;" />
-</a>
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_LINK)
 
-<a href="YOUR_DISCORD_LINK">
-  <img src="https://cdn.simpleicons.org/discord/ffffff" width="40"
-       style="background:#5865F2;border-radius:50%;padding:10px;margin:6px;" />
-</a>
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](YOUR_SPOTIFY_LINK)
 
-<a href="YOUR_SPOTIFY_LINK">
-  <img src="https://cdn.simpleicons.org/spotify/ffffff" width="40"
-       style="background:#1DB954;border-radius:50%;padding:10px;margin:6px;" />
-</a>
-
-</p>
 
 
 ---
