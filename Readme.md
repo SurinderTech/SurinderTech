@@ -177,7 +177,11 @@ thinking **3 moves ahead**, sacrificing short-term wins for long-term strategy.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity   <br>  
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=SurinderTech&label=Profile%20Views&color=blue&style=flat)
+
 
 <div align="center">
 
