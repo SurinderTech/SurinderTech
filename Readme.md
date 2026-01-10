@@ -192,7 +192,7 @@ thinking **3 moves ahead**, sacrificing short-term wins for long-term strategy.
 [![LeetCode](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/surinderdigital)
 [![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/surinder101?tab=activity)
 [![Codeforces](https://img.shields.io/badge/CF-1F8ACB?style=flat-square&logo=codeforces)](LINK)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit)](LINK)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit)](https://www.reddit.com/user/Lost-Access3420/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord)](LINK)
 
 
