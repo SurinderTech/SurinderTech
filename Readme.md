@@ -185,15 +185,35 @@ thinking **3 moves ahead**, sacrificing short-term wins for long-term strategy.
 
 # 🌐 Social Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/surinder-kumar-948343321/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/surinder_kumar101/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](www.youtube.com/@SurinderFoundations)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](YOUR_LINK)
-[![LeetCode](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/surinderdigital)
-[![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/surinder101?tab=activity)
-[![Codeforces](https://img.shields.io/badge/CF-1F8ACB?style=flat-square&logo=codeforces)](LINK)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit)](https://www.reddit.com/user/Lost-Access3420/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord)](LINK)
+<p align="center">
+  <a href="https://www.linkedin.com/in/surinder-kumar-948343321/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/surinder_kumar101/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.youtube.com/@SurinderFoundations">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" width="40" height="40"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlechrome.svg" width="40" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/surinderdigital">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/surinder101">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/geeksforgeeks.svg" width="40" height="40"/>
+  </a>
+  <a href="YOUR_CODEFORCES_LINK">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codeforces.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.reddit.com/user/Lost-Access3420/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/reddit.svg" width="40" height="40"/>
+  </a>
+  <a href="YOUR_DISCORD_LINK">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" width="40" height="40"/>
+  </a>
+</p>
 
 
 ---
