@@ -208,6 +208,8 @@ thinking **3 moves ahead**, sacrificing short-term wins for long-term strategy.
 
 ---
 
+
+
 # 🤖 What I Do
 
 ✔ Build automation tools  
