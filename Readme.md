@@ -189,7 +189,7 @@ thinking **3 moves ahead**, sacrificing short-term wins for long-term strategy.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/surinder_kumar101/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](www.youtube.com/@SurinderFoundations)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](YOUR_LINK)
-[![LeetCode](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode)](LINK)
+[![LeetCode](https://img.shields.io/badge/LC-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/u/surinderdigital)
 [![GFG](https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks)](LINK)
 [![Codeforces](https://img.shields.io/badge/CF-1F8ACB?style=flat-square&logo=codeforces)](LINK)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit)](LINK)
