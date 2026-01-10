@@ -208,6 +208,8 @@ thinking **3 moves ahead**, sacrificing short-term wins for long-term strategy.
 
 ---
 
+## 📊 Performance Trend
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=SurinderTech&theme=github-dark)
 
 
 # 🤖 What I Do
