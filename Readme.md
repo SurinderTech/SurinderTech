@@ -117,6 +117,51 @@ thinking **3 moves ahead**, sacrificing short-term wins for long-term strategy.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
+  <!-- AI / LLMs (Official Brand Colors) -->
+
+<img width="12" />
+<img src="https://cdn.simpleicons.org/google/4285F4" height="30" alt="google gemini logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/anthropic/191919" height="30" alt="claude ai logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/githubcopilot/000000" height="30" alt="github copilot logo" />
+<img width="12" />
+
+<!-- Agentic AI / Automation -->
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="30" alt="langchain logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/crewai/000000" height="30" alt="crewai logo" />
+<img width="12" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="30" alt="n8n logo" />
+<img width="12" />
+
+<!-- DevOps / Infra (Official colors) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo" />
+<img width="12" />
+
+<!-- Backend / Cloud / APIs -->
+<img src="https://cdn.simpleicons.org/redis/DC382D" height="30" alt="redis logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" height="30" alt="swagger logo" />
+<img width="12" />
+
+<!-- AI / ML -->
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="30" alt="huggingface logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="pytorch logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="tensorflow logo" />
+<img width="12" />
+
   
 </div>
 # 🚀 Featured Projects
