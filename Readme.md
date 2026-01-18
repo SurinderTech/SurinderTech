@@ -10,7 +10,7 @@
 
 
 
-<!-- CUSTOM CIRCULAR BADGES (YOUR PERSONAL ONES) --
+<!-- CUSTOM CIRCULAR BADGES (YOUR PERSONAL ONES) -->
 <div align="center">
 
 ![Full Stack](https://img.shields.io/badge/Role-Full--Stack--Developer-6C63FF?style=for-the-badge)
