@@ -35,7 +35,7 @@
 <br>
 
 
-&nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; I approach coding problems the same way I play chess —  
+&nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; I approach coding problems the same way I play chess -  
 thinking **3 moves ahead**, sacrificing short-term wins for long-term strategy.
 
 
