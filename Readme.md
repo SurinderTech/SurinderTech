@@ -30,7 +30,7 @@
 👯 I’m excited to collaborate on open-source work and creative innovations.<br>
 🤝 I’m diving deeper into advanced Software Engineering concepts and open to learning from others.<br>
 🌱 I’m exploring everything—from system architecture to automation and smart tooling.<br>
-💬 Ask me anything about coding, debugging, or my favorite coffee blend ☕.<br>
+💬 Ask me anything about coding, debugging, or my favorite things.<br>
 ⚡ Fun Fact  &nbsp; &nbsp; &nbsp;  ![Fun Fact](https://img.shields.io/badge/♞_Chess-Champ-8B5CF6?style=for-the-badge&logo=lichess&logoColor=white)<br>
 <br>
 
