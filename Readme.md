@@ -163,17 +163,6 @@ thinking **3 moves ahead**, sacrificing short-term wins for long-term strategy.
 <img width="12" />
 
   
-</div>
-# 🚀 Featured Projects
-
- 🔹 AI WhatsApp Marketing Software  
-> Automates WhatsApp, leads, funnels & client onboarding.
-
-### 🔹 AI Personal Assistant (Voice + Text)  
-> Uploads videos, creates PPT, builds sites, talks to files.
-
-### 🔹 Portfolio + Payment Gateway  
-> Razorpay integrated + Fast checkout + Developer branding.
 
 ---
 
