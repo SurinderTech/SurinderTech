@@ -26,7 +26,7 @@
 
  👨‍💻 About Me
 
-🔭 🚀 I’m currently building cool tech projects and leveling up my coding game.<br>
+🔭 🚀 I’m currently building cool tech projects and leveling up .<br>
 👯 I’m excited to collaborate on open-source work and creative innovations.<br>
 🤝 I’m diving deeper into advanced Software Engineering concepts and open to learning from others.<br>
 🌱 I’m exploring everything—from system architecture to automation and smart tooling.<br>
