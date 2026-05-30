@@ -24,7 +24,7 @@
 
 ---
 
- 👨‍💻 About Me
+ # 👨‍💻About Me
 
 🔭 🚀 I’m currently building cool tech projects and leveling up .<br>
 👯 I’m excited to collaborate on open-source work and creative innovations.<br>
@@ -59,7 +59,7 @@ thinking **3 moves ahead**, sacrificing short-term wins for long-term strategy.
 <br>
 <br>
 <br>
- 💻 Tech Stack:
+ # Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
