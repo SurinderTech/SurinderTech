@@ -259,6 +259,6 @@ thinking **3 moves ahead**, sacrificing short-term wins for long-term strategy.
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=1500&color=7FFF00&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+🚀;Feel+free+to+connect+%F0%9F%91%8B" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=1500&color=7FFF00&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+;Feel+free+to+connect+%F0%9F%91%8B" />
 </div>
 
