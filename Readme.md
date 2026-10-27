@@ -2,7 +2,7 @@
   )]()
 <!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&color=00F5FF&center=true&vCenter=true&width=800&lines=+I'm+Surinder+Kumar!;Full-Stack+Developer+⚡;AI+Automation+Builder+🤖;Python+Lover+🐍;Welcome+to+My+Coding+Universe+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&color=00F5FF&center=true&vCenter=true&width=800&lines=+I'm+Surinder+Kumar!;Full-Stack+Developer+⚡;AI+Automation+Builder+🤖;Python+Lover+🐍;Welcome+to+My+Coding+Universe+" />
 </div>
 
 <br/>
