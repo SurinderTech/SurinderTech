@@ -47,11 +47,9 @@ thinking **3 moves ahead**, sacrificing short-term wins for long-term strategy.
 
 
 
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-</div>
+<p align="center">
+  <img src="surinder-cyberpunk-github.gif" width="400"/>
+</p>
 
 
 
