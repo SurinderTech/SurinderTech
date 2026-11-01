@@ -46,9 +46,8 @@ thinking **3 moves ahead**, sacrificing short-term wins for long-term strategy.
 <br>
 
 
-
 <p align="center">
-  <img src="surinder-cyberpunk-github.gif" width="800"/>
+  <img src="surinder-cyberpunk-loop.gif" width="800" height="400" alt="Surinder Cyberpunk Developer GIF"/>
 </p>
 
 
