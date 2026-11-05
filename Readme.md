@@ -1,25 +1,15 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E800FD&center=true&width=500&lines=%3C%F0%9F%91%8B+Hello%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+नमस्ते%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Ciao%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Hola%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+Bonjour%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+こんにちは%2C+World!+%2F+%3E;%3C%F0%9F%91%8B+안녕하세요%2C+World!+%2F+%3E
-  )]()
-<!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&color=00F5FF&center=true&vCenter=true&width=800&lines=+I'm+Surinder+Kumar!;Full-Stack+Developer+⚡;AI+Automation+Builder+🤖;Python+Lover+🐍;Welcome+to+My+Coding+Universe+" />
+  <img
+    src="shinobi-world.gif"
+    width="100%"
+    alt="SurinderTech Shinobi Welcome Animation"
+  />
 </div>
-
-<br/>
-
-
-
 
 <!-- CUSTOM CIRCULAR BADGES (YOUR PERSONAL ONES) -->
 <div align="center">
 
-![Full Stack](https://img.shields.io/badge/Role-Full--Stack--Developer-6C63FF?style=for-the-badge)
-![AI Automation](https://img.shields.io/badge/AI-Automation-FFD93D?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Developer-00A8E8?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-06D6A0?style=for-the-badge&logo=fastapi)
-![Web](https://img.shields.io/badge/Web-Developer-FF7A00?style=for-the-badge&logo=html5)
 
-</div>
 
 
 ---
