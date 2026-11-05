@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="shinobi-world.gif"
+    src="shinobi-world (1).gif"
     width="100%"
     alt="SurinderTech Shinobi Welcome Animation"
   />
