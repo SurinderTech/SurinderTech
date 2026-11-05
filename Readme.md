@@ -111,7 +111,6 @@ thinking **3 moves ahead**, sacrificing short-term wins for long-term strategy.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
   <!-- AI / LLMs (Official Brand Colors) -->
 
