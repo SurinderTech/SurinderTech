@@ -1,0 +1,216 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 580" width="1280" height="580" role="img" aria-label="Surinder Tech Arsenal — Full Tech Stack">
+<title>SurinderTech — Tech Arsenal</title>
+<defs>
+<style>
+.bg{fill:#050a14}
+.head{font-family:'JetBrains Mono',monospace;font-weight:800;font-size:28px;fill:url(#hG)}
+.sub{font-family:'JetBrains Mono',monospace;font-size:12px;fill:#475569;letter-spacing:3px}
+.shead{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:12px;letter-spacing:2px}
+.icon-pill{fill:#0a1628;stroke-width:1;rx:8}
+.iname{font-family:'JetBrains Mono',monospace;font-size:9px;fill:#94a3b8;text-anchor:middle}
+.row{opacity:0;animation:fadeRow 0.5s ease both}
+@keyframes fadeRow{from{opacity:0;transform:translateX(-16px)}to{opacity:1;transform:translateX(0)}}
+@keyframes borderFlow{from{stroke-dashoffset:1200}to{stroke-dashoffset:0}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+@keyframes shimmer{0%{stop-color:#38bdf8}33%{stop-color:#818cf8}66%{stop-color:#c084fc}100%{stop-color:#38bdf8}}
+</style>
+<linearGradient id="bgG" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+<stop offset="0%" stop-color="#020917"/><stop offset="100%" stop-color="#030c1a"/>
+</linearGradient>
+<linearGradient id="hG" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#38bdf8"/><stop offset="50%" stop-color="#818cf8"/><stop offset="100%" stop-color="#c084fc"/>
+</linearGradient>
+<linearGradient id="lineG" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#1e40af" stop-opacity="0"/><stop offset="50%" stop-color="#38bdf8"/><stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+</linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+
+<rect width="1280" height="580" fill="url(#bgG)"/>
+<g opacity="0.03" stroke="#38bdf8" stroke-width="0.5">
+<line x1="0" y1="80" x2="1280" y2="80"/><line x1="0" y1="160" x2="1280" y2="160"/><line x1="0" y1="240" x2="1280" y2="240"/><line x1="0" y1="320" x2="1280" y2="320"/><line x1="0" y1="400" x2="1280" y2="400"/><line x1="0" y1="480" x2="1280" y2="480"/>
+<line x1="256" y1="0" x2="256" y2="580"/><line x1="512" y1="0" x2="512" y2="580"/><line x1="768" y1="0" x2="768" y2="580"/><line x1="1024" y1="0" x2="1024" y2="580"/>
+</g>
+
+<!-- Header -->
+<text x="640" y="46" text-anchor="middle" class="sub">// JUTSU ARSENAL</text>
+<text x="640" y="82" text-anchor="middle" class="head" filter="url(#glow)">🛠️ Tech Stack &amp; Weapons</text>
+<line x1="140" y1="96" x2="1140" y2="96" stroke="url(#lineG)" stroke-width="1.5" stroke-dasharray="1000" stroke-dashoffset="1000" style="animation:borderFlow 1.4s ease 0.3s both"/>
+
+<!-- Section: Languages -->
+<g class="row" style="animation-delay:0.2s">
+<text x="56" y="128" class="shead" fill="#38bdf8">[ LANGUAGES ]</text>
+<line x1="166" y1="122" x2="700" y2="122" stroke="#1e3a5f" stroke-width="1"/>
+<!-- Python -->
+<rect x="56" y="136" width="72" height="56" rx="8" fill="#0a1628" stroke="#3b82f6" stroke-width="1.2"/>
+<text x="92" y="162" text-anchor="middle" font-size="22">🐍</text>
+<text x="92" y="184" class="iname">Python</text>
+<!-- JavaScript -->
+<rect x="140" y="136" width="72" height="56" rx="8" fill="#0a1628" stroke="#eab308" stroke-width="1.2"/>
+<text x="176" y="162" text-anchor="middle" font-size="22">𝐉𝐒</text>
+<text x="176" y="184" class="iname">JavaScript</text>
+<!-- TypeScript -->
+<rect x="224" y="136" width="72" height="56" rx="8" fill="#0a1628" stroke="#2563eb" stroke-width="1.2"/>
+<text x="260" y="162" text-anchor="middle" font-size="22">𝐓𝐒</text>
+<text x="260" y="184" class="iname">TypeScript</text>
+<!-- C++ -->
+<rect x="308" y="136" width="72" height="56" rx="8" fill="#0a1628" stroke="#6366f1" stroke-width="1.2"/>
+<text x="344" y="162" text-anchor="middle" font-size="22">⚙️</text>
+<text x="344" y="184" class="iname">C++</text>
+<!-- HTML -->
+<rect x="392" y="136" width="72" height="56" rx="8" fill="#0a1628" stroke="#ea580c" stroke-width="1.2"/>
+<text x="428" y="162" text-anchor="middle" font-size="22">🌐</text>
+<text x="428" y="184" class="iname">HTML</text>
+<!-- CSS -->
+<rect x="476" y="136" width="72" height="56" rx="8" fill="#0a1628" stroke="#0ea5e9" stroke-width="1.2"/>
+<text x="512" y="162" text-anchor="middle" font-size="22">🎨</text>
+<text x="512" y="184" class="iname">CSS</text>
+<!-- Java -->
+<rect x="560" y="136" width="72" height="56" rx="8" fill="#0a1628" stroke="#dc2626" stroke-width="1.2"/>
+<text x="596" y="162" text-anchor="middle" font-size="22">☕</text>
+<text x="596" y="184" class="iname">Java</text>
+</g>
+
+<!-- Section: Frontend -->
+<g class="row" style="animation-delay:0.35s">
+<text x="56" y="222" class="shead" fill="#818cf8">[ FRONTEND ]</text>
+<line x1="156" y1="216" x2="700" y2="216" stroke="#1e3a5f" stroke-width="1"/>
+<rect x="56" y="230" width="72" height="56" rx="8" fill="#0a1628" stroke="#38bdf8" stroke-width="1.2"/>
+<text x="92" y="256" text-anchor="middle" font-size="22">⚛️</text>
+<text x="92" y="278" class="iname">React</text>
+<rect x="140" y="230" width="72" height="56" rx="8" fill="#0a1628" stroke="#e2e8f0" stroke-width="1.2"/>
+<text x="176" y="256" text-anchor="middle" font-size="20">▲</text>
+<text x="176" y="278" class="iname">Next.js</text>
+<rect x="224" y="230" width="72" height="56" rx="8" fill="#0a1628" stroke="#06b6d4" stroke-width="1.2"/>
+<text x="260" y="256" text-anchor="middle" font-size="22">💨</text>
+<text x="260" y="278" class="iname">Tailwind</text>
+<rect x="308" y="230" width="72" height="56" rx="8" fill="#0a1628" stroke="#6366f1" stroke-width="1.2"/>
+<text x="344" y="256" text-anchor="middle" font-size="22">🧊</text>
+<text x="344" y="278" class="iname">Three.js</text>
+<rect x="392" y="230" width="72" height="56" rx="8" fill="#0a1628" stroke="#ff69b4" stroke-width="1.2"/>
+<text x="428" y="256" text-anchor="middle" font-size="22">🎞️</text>
+<text x="428" y="278" class="iname">Framer</text>
+</g>
+
+<!-- Section: Backend -->
+<g class="row" style="animation-delay:0.5s">
+<text x="56" y="316" class="shead" fill="#34d399">[ BACKEND ]</text>
+<line x1="150" y1="310" x2="700" y2="310" stroke="#1e3a5f" stroke-width="1"/>
+<rect x="56" y="324" width="72" height="56" rx="8" fill="#0a1628" stroke="#16a34a" stroke-width="1.2"/>
+<text x="92" y="350" text-anchor="middle" font-size="22">⚡</text>
+<text x="92" y="372" class="iname">FastAPI</text>
+<rect x="140" y="324" width="72" height="56" rx="8" fill="#0a1628" stroke="#6db33f" stroke-width="1.2"/>
+<text x="176" y="350" text-anchor="middle" font-size="22">🟢</text>
+<text x="176" y="372" class="iname">Node.js</text>
+<rect x="224" y="324" width="72" height="56" rx="8" fill="#0a1628" stroke="#888" stroke-width="1.2"/>
+<text x="260" y="350" text-anchor="middle" font-size="22">🚂</text>
+<text x="260" y="372" class="iname">Express</text>
+<rect x="308" y="324" width="72" height="56" rx="8" fill="#0a1628" stroke="#ea0036" stroke-width="1.2"/>
+<text x="344" y="350" text-anchor="middle" font-size="22">🐱</text>
+<text x="344" y="372" class="iname">NestJS</text>
+</g>
+
+<!-- Section: Databases & Cloud -->
+<g class="row" style="animation-delay:0.65s">
+<text x="56" y="410" class="shead" fill="#f59e0b">[ DATABASES &amp; CLOUD ]</text>
+<line x1="246" y1="404" x2="700" y2="404" stroke="#1e3a5f" stroke-width="1"/>
+<rect x="56" y="418" width="72" height="56" rx="8" fill="#0a1628" stroke="#2563eb" stroke-width="1.2"/>
+<text x="92" y="444" text-anchor="middle" font-size="22">🐘</text>
+<text x="92" y="466" class="iname">PostgreSQL</text>
+<rect x="140" y="418" width="72" height="56" rx="8" fill="#0a1628" stroke="#16a34a" stroke-width="1.2"/>
+<text x="176" y="444" text-anchor="middle" font-size="22">🍃</text>
+<text x="176" y="466" class="iname">MongoDB</text>
+<rect x="224" y="418" width="72" height="56" rx="8" fill="#0a1628" stroke="#38bdf8" stroke-width="1.2"/>
+<text x="260" y="444" text-anchor="middle" font-size="22">⚡</text>
+<text x="260" y="466" class="iname">Supabase</text>
+<rect x="308" y="418" width="72" height="56" rx="8" fill="#0a1628" stroke="#f59e0b" stroke-width="1.2"/>
+<text x="344" y="444" text-anchor="middle" font-size="22">🔥</text>
+<text x="344" y="466" class="iname">Firebase</text>
+<rect x="392" y="418" width="72" height="56" rx="8" fill="#0a1628" stroke="#dc2626" stroke-width="1.2"/>
+<text x="428" y="444" text-anchor="middle" font-size="22">🔴</text>
+<text x="428" y="466" class="iname">Redis</text>
+<rect x="476" y="418" width="72" height="56" rx="8" fill="#0a1628" stroke="#f59e0b" stroke-width="1.2"/>
+<text x="512" y="444" text-anchor="middle" font-size="22">☁️</text>
+<text x="512" y="466" class="iname">AWS</text>
+<rect x="560" y="418" width="72" height="56" rx="8" fill="#0a1628" stroke="#4285f4" stroke-width="1.2"/>
+<text x="596" y="444" text-anchor="middle" font-size="22">🌩️</text>
+<text x="596" y="466" class="iname">GCP</text>
+</g>
+
+<!-- Section: AI/ML -->
+<g class="row" style="animation-delay:0.8s">
+<text x="56" y="504" class="shead" fill="#c084fc">[ AI / ML / AGENTIC AI ]</text>
+<line x1="250" y1="498" x2="700" y2="498" stroke="#1e3a5f" stroke-width="1"/>
+<rect x="56" y="512" width="72" height="48" rx="8" fill="#0a1628" stroke="#ee4c2c" stroke-width="1.2"/>
+<text x="92" y="538" text-anchor="middle" font-size="20">🔥</text>
+<text x="92" y="556" class="iname">PyTorch</text>
+<rect x="140" y="512" width="72" height="48" rx="8" fill="#0a1628" stroke="#ff6f00" stroke-width="1.2"/>
+<text x="176" y="538" text-anchor="middle" font-size="20">🧠</text>
+<text x="176" y="556" class="iname">TensorFlow</text>
+<rect x="224" y="512" width="72" height="48" rx="8" fill="#0a1628" stroke="#38bdf8" stroke-width="1.2"/>
+<text x="260" y="538" text-anchor="middle" font-size="20">🦜</text>
+<text x="260" y="556" class="iname">LangChain</text>
+<rect x="308" y="512" width="72" height="48" rx="8" fill="#0a1628" stroke="#ffd21e" stroke-width="1.2"/>
+<text x="344" y="538" text-anchor="middle" font-size="20">🤗</text>
+<text x="344" y="556" class="iname">HuggingFace</text>
+<rect x="392" y="512" width="72" height="48" rx="8" fill="#0a1628" stroke="#ea4b71" stroke-width="1.2"/>
+<text x="428" y="538" text-anchor="middle" font-size="20">⚡</text>
+<text x="428" y="556" class="iname">n8n</text>
+<rect x="476" y="512" width="72" height="48" rx="8" fill="#0a1628" stroke="#818cf8" stroke-width="1.2"/>
+<text x="512" y="538" text-anchor="middle" font-size="20">👁️</text>
+<text x="512" y="556" class="iname">OpenCV</text>
+<rect x="560" y="512" width="72" height="48" rx="8" fill="#0a1628" stroke="#16a34a" stroke-width="1.2"/>
+<text x="596" y="538" text-anchor="middle" font-size="20">📊</text>
+<text x="596" y="556" class="iname">sklearn</text>
+</g>
+
+<!-- Right side: Tools column -->
+<g class="row" style="animation-delay:0.5s">
+<text x="800" y="128" class="shead" fill="#f472b6">[ TOOLS &amp; DEVOPS ]</text>
+<line x1="940" y1="122" x2="1240" y2="122" stroke="#1e3a5f" stroke-width="1"/>
+<!-- Row 1 -->
+<rect x="800" y="136" width="66" height="52" rx="8" fill="#0a1628" stroke="#f97316" stroke-width="1.2"/>
+<text x="833" y="160" text-anchor="middle" font-size="20">🐙</text>
+<text x="833" y="180" class="iname">Git/GitHub</text>
+<rect x="878" y="136" width="66" height="52" rx="8" fill="#0a1628" stroke="#2563eb" stroke-width="1.2"/>
+<text x="911" y="160" text-anchor="middle" font-size="20">💻</text>
+<text x="911" y="180" class="iname">VS Code</text>
+<rect x="956" y="136" width="66" height="52" rx="8" fill="#0a1628" stroke="#38bdf8" stroke-width="1.2"/>
+<text x="989" y="160" text-anchor="middle" font-size="20">🐳</text>
+<text x="989" y="180" class="iname">Docker</text>
+<rect x="1034" y="136" width="66" height="52" rx="8" fill="#0a1628" stroke="#326de6" stroke-width="1.2"/>
+<text x="1067" y="160" text-anchor="middle" font-size="20">⎈</text>
+<text x="1067" y="180" class="iname">Kubernetes</text>
+<rect x="1112" y="136" width="66" height="52" rx="8" fill="#0a1628" stroke="#f59e0b" stroke-width="1.2"/>
+<text x="1145" y="160" text-anchor="middle" font-size="20">🐧</text>
+<text x="1145" y="180" class="iname">Linux</text>
+<rect x="1190" y="136" width="50" height="52" rx="8" fill="#0a1628" stroke="#ff6c37" stroke-width="1.2"/>
+<text x="1215" y="160" text-anchor="middle" font-size="20">📮</text>
+<text x="1215" y="180" class="iname">Postman</text>
+<!-- Row 2: Ninja ID stat card area -->
+<rect x="800" y="210" width="456" height="300" rx="12" fill="#070d1c" stroke="#1e3a5f" stroke-width="1"/>
+<rect x="800" y="210" width="456" height="4" rx="2" fill="url(#hG)"/>
+<text x="1028" y="244" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="13" font-weight="700" fill="#94a3b8">⟨/⟩ SHINOBI REGISTRATION CARD</text>
+<line x1="816" y1="254" x2="1240" y2="254" stroke="#1e3a5f" stroke-width="1"/>
+<!-- ID fields -->
+<text x="824" y="278" font-family="'JetBrains Mono',monospace" font-size="10" fill="#475569">NAME :</text>
+<text x="890" y="278" font-family="'JetBrains Mono',monospace" font-size="10" fill="#e2e8f0" font-weight="700">Surinder Kumar</text>
+<text x="824" y="302" font-family="'JetBrains Mono',monospace" font-size="10" fill="#475569">ALIAS :</text>
+<text x="890" y="302" font-family="'JetBrains Mono',monospace" font-size="10" fill="#38bdf8" font-weight="700">SurinderTech</text>
+<text x="824" y="326" font-family="'JetBrains Mono',monospace" font-size="10" fill="#475569">RANK :</text>
+<text x="890" y="326" font-family="'JetBrains Mono',monospace" font-size="10" fill="#f59e0b" font-weight="700">AI Engineer · Product Builder</text>
+<text x="824" y="350" font-family="'JetBrains Mono',monospace" font-size="10" fill="#475569">VILLAGE :</text>
+<text x="890" y="350" font-family="'JetBrains Mono',monospace" font-size="10" fill="#c084fc" font-weight="700">Digital Silicon Valley</text>
+<text x="824" y="374" font-family="'JetBrains Mono',monospace" font-size="10" fill="#475569">SPECIALTY :</text>
+<text x="906" y="374" font-family="'JetBrains Mono',monospace" font-size="10" fill="#34d399" font-weight="700">AI Engineering · Full-Stack Dev</text>
+<text x="824" y="398" font-family="'JetBrains Mono',monospace" font-size="10" fill="#475569">STATUS :</text>
+<text x="890" y="398" font-family="'JetBrains Mono',monospace" font-size="10" fill="#4ade80" font-weight="700">🟢 BUILDING THE FUTURE</text>
+<text x="824" y="422" font-family="'JetBrains Mono',monospace" font-size="10" fill="#475569">MISSION :</text>
+<text x="893" y="422" font-family="'JetBrains Mono',monospace" font-size="10" fill="#93c5fd" font-weight="700">Build · Automate · Scale · Impact</text>
+<line x1="816" y1="436" x2="1240" y2="436" stroke="#1e3a5f" stroke-width="1"/>
+<text x="1028" y="456" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="9" fill="#334155">@SurinderTech · github.com/SurinderTech</text>
+<text x="1028" y="474" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="9" fill="#1e3a5f">◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆◆</text>
+<text x="1028" y="492" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="9" fill="#334155">surinderkumar3182@gmail.com</text>
+</g>
+</svg>
+
