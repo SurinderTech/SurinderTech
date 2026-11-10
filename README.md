@@ -31,8 +31,8 @@
 
 <table>
 <tr><th>Mission</th><th>What it is</th><th>Jutsu used</th><th align="center">Rank</th></tr>
-<tr><td><a href="https://github.com/SurinderTech"><b>GrowthOS</b></a></td><td>Digital Silicon Valley — AI-powered productivity ecosystem</td><td><code>Next.js</code> <code>FastAPI</code> <code>AI/LLMs</code> <code>Supabase</code></td><td align="center"><b>⭐ S</b></td></tr>
-<tr><td><a href="https://github.com/SurinderTech"><b>InterviewAI</b></a></td><td>AI-powered interview preparation platform for developers</td><td><code>Python</code> <code>React</code> <code>FastAPI</code> <code>AI/LLMs</code></td><td align="center"><b>⭐ A</b></td></tr>
+<tr><td><a href="https://github.com/SurinderTech/GrowthOS"><b>GrowthOS</b></a></td><td>Digital Silicon Valley — AI-powered productivity ecosystem</td><td><code>Next.js</code> <code>FastAPI</code> <code>AI/LLMs</code> <code>Supabase</code></td><td align="center"><b>⭐ S</b></td></tr>
+<tr><td><a href="https://github.com/SurinderTech/interview-ai"><b>InterviewAI</b></a></td><td>AI-powered interview preparation platform for developers</td><td><code>Python</code> <code>React</code> <code>FastAPI</code> <code>AI/LLMs</code></td><td align="center"><b>⭐ A</b></td></tr>
 </table>
 
 <div align="center">
