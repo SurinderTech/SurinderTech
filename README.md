@@ -101,6 +101,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=1000&color=7FFF00&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Keep+Building.+Keep+Learning.+Keep+Growing.;Think+Beyond+Code+%F0%9F%9A%80" alt="Footer Animation"/>
 
-**Dattebayo! Keep Building, Keep Shipping, Keep Growing.** ⚡🍥
+**Dattebayo! Keep Building, Keep Shipping, Keep Growing.** ⚡
 
 </div>
