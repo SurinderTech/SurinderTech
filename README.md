@@ -6,7 +6,7 @@
 <br/>
 
 <!-- ⚡ HERO BANNER — Throne Edition -->
-<img src="./hero.svg?v=2" alt="SurinderTech — AI Engineer | Full-Stack Developer | Product Builder" width="100%"/>
+<img src="./hero.svg?v=2" alt="SurinderTech — AI Engineer | Full-Stack Developer | Product Builder" width="500%"/>
 
 <!-- ⚡ FULL BODY CHARACTER -->
 <img src="./surinder-character.png" alt="SurinderTech Shinobi — AI Builder" width="200"/>
