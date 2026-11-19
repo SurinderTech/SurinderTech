@@ -10,8 +10,11 @@
 
 <br/><br/>
 
-<!-- 🪪 ANIMATED DEVELOPER DASHBOARD -->
-<img src="./surinder-dashboard.svg?v=1" alt="SurinderTech Developer Dashboard — Ninja ID + Live Stats + Tech Mastery" width="100%"/>
+<br><br>
+
+
+<br><br>
+
 
 <br/><br/>
 
