@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎬 SHINOBI WELCOME -->
-<img src="./shinobi-world (1).gif" width="100%" alt="SurinderTech Shinobi Welcome Animation"/>
+
 
 <br/>
 
