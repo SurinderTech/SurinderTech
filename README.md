@@ -8,14 +8,8 @@
 <!-- ⚡ HERO BANNER — Throne Edition -->
 <img src="./hero.svg?v=2" alt="SurinderTech — AI Engineer | Full-Stack Developer | Product Builder" width="100%"/>
 
-<br/><br/>
-
-<br><br>
-
-
-<br><br>
-
-
+<!-- ⚡ FULL BODY CHARACTER -->
+<img src="./surinder-character.png" alt="SurinderTech Shinobi — AI Builder" width="200"/>
 <br/><br/>
 
 <!-- 🍥 MY NINJA WAY -->
@@ -72,12 +66,7 @@
 
 <div align="center">
 
-<br/>
 
-<!-- ⚡ FULL BODY CHARACTER -->
-<img src="./surinder-character.png" alt="SurinderTech Shinobi — AI Builder" width="200"/>
-
-<br/><br/>
 
 <!-- 💌 CONNECT -->
 <img src="./surinder-connect.svg?v=1" alt="Connect with SurinderTech" width="100%"/>
